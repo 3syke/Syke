@@ -13,9 +13,3 @@ color: #191970; /* warna teks utama (biru gelap) */
 box-shadow: 0 4px 8px rgba(0,0,0,0,1)  /* efek bayangan */
   text align: center; /* menengahkan semua text didalam kartu */
 }
-
-
-.kartu-profil img {
-  width: 150px;
-  border-radius: 50%; 
-}
